@@ -1,0 +1,100 @@
+body{
+    height:100vh;
+    width:99%;
+}
+
+#banner{
+    height:15%;
+    text-align:center;
+}
+
+#menu{
+    
+    background-color:green;
+}
+
+menu{
+    Width:100%;
+    display:inline;
+    text-align:center;
+}
+
+li{
+    display:inline;
+    list-style-type:none;
+    
+}
+
+aside{
+    overflow:hidden;
+    background-color:lightGrey;
+    margin-top:2%;
+    margin-left:3%;
+    margin-right:3%;
+    text-align:center;
+    height:60%;
+    width:25%;
+    border:3px solid;
+    float:left;
+    display:inline;
+}
+
+#shark_pie{
+    margin-left:35%;
+    margin-bottom:5%;
+    display:block;
+    height:25%;
+    width:30%;
+}
+
+#cat_shark{
+    margin-left:35%;
+    margin-bottom:5%;
+    display:block;
+    height:25%;
+    width:30%;
+}
+
+#banana_shark{
+    margin-left:40%;
+    display:block;
+    height:25%;
+    width:20%;
+}
+
+#shark_pie_button:focus{
+    
+}
+
+#cat_shark_button:focus{
+    
+}
+
+#banana_shark_button:focus{
+    
+}
+
+article{
+    background-color:#FBFBFA;
+    margin-top:2%;
+    margin-left:2%;
+    margin-right:2%;
+    height:60%;
+    width:60%;
+    border:3px solid;
+    float:left;
+    display:inline;
+    
+}
+
+footer{
+    color:white;
+    background-color:#000080;
+    margin-left:10%;
+    margin-top:5%;
+    margin-bottom:2%;
+    width:80%;
+    text-align:center;
+    border:2px solid;
+    float:left;
+}
